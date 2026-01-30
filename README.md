@@ -45,7 +45,8 @@ apt update && apt install -y jq curl
 直接复制下方代码在终端运行，即可完成安装并立即启动：
 
 Bash
-bash <(curl -sL https://gist.githubusercontent.com/你的用户名/xxxx/raw/cfy.sh)
+bash <(curl -sL https://gist.githubusercontent.com/dgag-kj
+cfy/main/cfy.sh)
 (注：请将上面的链接替换为你上传脚本后的真实 Raw 链接)
 
 方式 2：手动安装
