@@ -45,9 +45,7 @@ apt update && apt install -y jq curl
 直接复制下方代码在终端运行，即可完成安装并立即启动：
 
 
-bash <(curl -sL https://gist.githubusercontent.com/dgag-kj
-cfy/main/cfy.sh)
-(注：请将上面的链接替换为你上传脚本后的真实 Raw 链接)
+bash <(curl -sL https://raw.githubusercontent.com/dgag-kj/cfy/main/cfy.sh)
 
 方式 2：手动安装
 如果你已经把脚本保存为 cfy.sh，直接运行：
@@ -57,7 +55,7 @@ chmod +x cfy.sh && ./cfy.sh
 🚀 如何使用
 安装成功后，你在任何目录下输入以下命令即可启动：
 
-Bash
+
 cfy
 操作流程示例：
 
